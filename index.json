@@ -1,0 +1,106 @@
+{
+    "code": "0000",
+    "msg": "获取数据成功",
+    "data": {
+        "banners": [
+            {
+                "deviceId": null,
+                "ss": null,
+                "pro": null,
+                "pla": null,
+                "mt": null,
+                "ver": null,
+                "clientIp": null,
+                "clientType": null,
+                "privateKey": null,
+                "saleSystem": null,
+                "secKey": null,
+                "token": null,				
+                "imageUrl": "https://m.chinaamc.com/upload/Image/mrtp/1_77914429206.jpg",
+                "url": "amcfm://extra/browse?url=https%3A%2F%2Fm.chinaamc.com%2FzndtBanner%2Fzn_dingtou.html"
+            },
+            {
+                "deviceId": null,
+                "ss": null,
+                "pro": null,
+                "pla": null,
+                "mt": null,
+                "ver": null,
+                "clientIp": null,
+                "clientType": null,
+                "privateKey": null,
+                "saleSystem": null,
+                "secKey": null,
+                "token": null,
+                "imageUrl": "https://m.chinaamc.com/upload/Image/mrtp/1_77887511880.jpg",
+                "url": "amcfm://trade/smartDttPackage"
+            },
+            {
+                "deviceId": null,
+                "ss": null,
+                "pro": null,
+                "pla": null,
+                "mt": null,
+                "ver": null,
+                "clientIp": null,
+                "clientType": null,
+                "privateKey": null,
+                "saleSystem": null,
+                "secKey": null,
+                "token": null,
+                "imageUrl": "https://m.chinaamc.com/upload/Image/mrtp/1_72691858169.jpg",
+                "url": "amcfm://extra/browseL?url=http%3A%2F%2F10.16.0.231%2F"
+            },
+            {
+                "deviceId": null,
+                "ss": null,
+                "pro": null,
+                "pla": null,
+                "mt": null,
+                "ver": null,
+                "clientIp": null,
+                "clientType": null,
+                "privateKey": null,
+                "saleSystem": null,
+                "secKey": null,
+                "token": null,
+                "imageUrl": "https://m.chinaamc.com/upload/Image/mrtp/1_60258131373.jpg",
+                "url": "amcfm://trade/loan"
+            }
+        ],
+        "hqtInfo": {
+            "fundCode": "003003",
+            "fundName": "华夏活期通",
+            "fundDesc": "基金理财中转站，申购费率低至1折",
+            "advantages": [
+                "1折购基",
+                "快速取现",
+                "信用卡还款",
+                "存取免费"
+            ],
+            "qirinianhua": "2.410%",
+            "qirinianhuaDesc": "七日年化收益率",
+            "incomeDate": "2016-09-07",
+            "wanfenshouyi": "0.6469",
+            "wanfenshouyiDesc": "万份收益(元):",
+            "ratioDesc": "2015年收益3.9305% （来源：基金年报）",
+            "otherDesc": "超过100万人使用",
+            "btnDesc": "存入",
+            "cardAction": "amcfm://extra/browse?title=华夏活期通&url=https://m.chinaamc.com/fund/003003/hqt.html",
+            "btnAction": "amcfm://trade/hqtPurchase"
+        },
+        "dttInfo": {
+            "dttName": "华夏定投通",
+            "dttDesc": "投入不多，一点不少",
+            "advantages": [
+                "一键定投",
+                "量身定制",
+                "好基推荐"
+            ],
+            "imageUrl": "",
+            "btnDesc": "开始定投",
+            "btnAction": "amcfm://extra/regularInvestHome"
+        },
+        "extraObjs": null
+    }
+}

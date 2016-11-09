@@ -1,6 +1,6 @@
-{
+ï»¿{
     "code": "0000",
-    "msg": "»ñÈ¡Êı¾İ³É¹¦",
+    "msg": "è·å–æ•°æ®æˆåŠŸ",
     "data": {
         "banners": [
             {
@@ -70,35 +70,35 @@
         ],
         "hqtInfo": {
             "fundCode": "003003",
-            "fundName": "»ªÏÄ»îÆÚÍ¨",
-            "fundDesc": "»ù½ğÀí²ÆÖĞ×ªÕ¾£¬Éê¹º·ÑÂÊµÍÖÁ1ÕÛ",
+            "fundName": "åå¤æ´»æœŸé€š",
+            "fundDesc": "åŸºé‡‘ç†è´¢ä¸­è½¬ç«™ï¼Œç”³è´­è´¹ç‡ä½è‡³1æŠ˜",
             "advantages": [
-                "1ÕÛ¹º»ù",
-                "¿ìËÙÈ¡ÏÖ",
-                "ĞÅÓÃ¿¨»¹¿î",
-                "´æÈ¡Ãâ·Ñ"
+                "1æŠ˜è´­åŸº",
+                "å¿«é€Ÿå–ç°",
+                "ä¿¡ç”¨å¡è¿˜æ¬¾",
+                "å­˜å–å…è´¹"
             ],
             "qirinianhua": "2.410%",
-            "qirinianhuaDesc": "ÆßÈÕÄê»¯ÊÕÒæÂÊ",
+            "qirinianhuaDesc": "ä¸ƒæ—¥å¹´åŒ–æ”¶ç›Šç‡",
             "incomeDate": "2016-09-07",
             "wanfenshouyi": "0.6469",
-            "wanfenshouyiDesc": "Íò·İÊÕÒæ(Ôª):",
-            "ratioDesc": "2015ÄêÊÕÒæ3.9305% £¨À´Ô´£º»ù½ğÄê±¨£©",
-            "otherDesc": "³¬¹ı100ÍòÈËÊ¹ÓÃ",
-            "btnDesc": "´æÈë",
-            "cardAction": "amcfm://extra/browse?title=»ªÏÄ»îÆÚÍ¨&url=https://m.chinaamc.com/fund/003003/hqt.html",
+            "wanfenshouyiDesc": "ä¸‡ä»½æ”¶ç›Š(å…ƒ):",
+            "ratioDesc": "2015å¹´æ”¶ç›Š3.9305% ï¼ˆæ¥æºï¼šåŸºé‡‘å¹´æŠ¥ï¼‰",
+            "otherDesc": "è¶…è¿‡100ä¸‡äººä½¿ç”¨",
+            "btnDesc": "å­˜å…¥",
+            "cardAction": "amcfm://extra/browse?title=åå¤æ´»æœŸé€š&url=https://m.chinaamc.com/fund/003003/hqt.html",
             "btnAction": "amcfm://trade/hqtPurchase"
         },
         "dttInfo": {
-            "dttName": "»ªÏÄ¶¨Í¶Í¨",
-            "dttDesc": "Í¶Èë²»¶à£¬Ò»µã²»ÉÙ",
+            "dttName": "åå¤å®šæŠ•é€š",
+            "dttDesc": "æŠ•å…¥ä¸å¤šï¼Œä¸€ç‚¹ä¸å°‘",
             "advantages": [
-                "Ò»¼ü¶¨Í¶",
-                "Á¿Éí¶¨ÖÆ",
-                "ºÃ»ùÍÆ¼ö"
+                "ä¸€é”®å®šæŠ•",
+                "é‡èº«å®šåˆ¶",
+                "å¥½åŸºæ¨è"
             ],
             "imageUrl": "",
-            "btnDesc": "¿ªÊ¼¶¨Í¶",
+            "btnDesc": "å¼€å§‹å®šæŠ•",
             "btnAction": "amcfm://extra/regularInvestHome"
         },
         "extraObjs": null

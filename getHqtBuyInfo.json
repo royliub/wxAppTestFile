@@ -5,6 +5,10 @@
     "shareClass": "C",
     "paymentAccounts": [
         {
+            bankNameDisplay:"test",
+            bankAmountLimitTip:"5wan"
+        },
+        {
             "paymentAccountId": "455048",
             "bankName": "招商银行",
             "bankNameDisplay": "招商银行***5434",

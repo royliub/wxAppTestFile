@@ -87,7 +87,7 @@
             "otherDesc": "超过100万人使用",
             "btnDesc": "存入",
             "cardAction": "amcfm://extra/browse?title=华夏活期通&url=https://m.chinaamc.com/fund/003003/hqt.html",
-            "btnAction": "hqtPurchase.json"
+            "btnAction": "canTrade.json"
         },
         "dttInfo": {
             "dttName": "华夏定投通",

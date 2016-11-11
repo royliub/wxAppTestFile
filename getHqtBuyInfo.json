@@ -18,7 +18,7 @@
             "onekeyState": "1",
             "tripleAgreementState": "0",
             "capitalChannelId": "G000@_@G",
-            "bankAmountLimitTip": null,
+            "bankAmountLimitTip": "五万",
             "notCEBChannel": true,
             "showNetWithholdOnBuy": "1"
         },

@@ -15,22 +15,6 @@
                 "privateKey": null,
                 "saleSystem": null,
                 "secKey": null,
-                "token": null,				
-                "imageUrl": "https://m.chinaamc.com/upload/Image/mrtp/1_77914429206.jpg",
-                "url": "amcfm://extra/browse?url=https%3A%2F%2Fm.chinaamc.com%2FzndtBanner%2Fzn_dingtou.html"
-            },
-            {
-                "deviceId": null,
-                "ss": null,
-                "pro": null,
-                "pla": null,
-                "mt": null,
-                "ver": null,
-                "clientIp": null,
-                "clientType": null,
-                "privateKey": null,
-                "saleSystem": null,
-                "secKey": null,
                 "token": null,
                 "imageUrl": "https://m.chinaamc.com/upload/Image/mrtp/1_77887511880.jpg",
                 "url": "amcfm://trade/smartDttPackage"
